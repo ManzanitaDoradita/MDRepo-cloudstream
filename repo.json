@@ -3,6 +3,6 @@
     "description": "Use PlayHub Lite Extension in CloudStream!",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/"
+      "https://raw.githubusercontent.com/ManzanitaDoradita/MDRepo-cloudstream/refs/heads/main/PlayHubLite.cs"
     ]
 }
