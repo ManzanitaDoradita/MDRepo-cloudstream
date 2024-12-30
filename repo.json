@@ -5,8 +5,7 @@
         {
             "name": "PlayHubLite",
             "version": "1.1",
-            //poner despues la url
-            "url":"example.com/example.cs",
+            "url":"https://raw.githubusercontent.com/ManzanitaDoradita/MDRepo-cloudstream/53b43409c8eb5ca4bd50dd597cf5a5199b05e525/PlayHubLite.cs",
             "description": "un plugin para el repositorio de la pagina web de playhublite.com"
         }
      ]
