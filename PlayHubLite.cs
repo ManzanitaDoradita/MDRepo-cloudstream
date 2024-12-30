@@ -14,7 +14,7 @@
         "version": 6,
         "internalName": "Playhub Lite",
         "description": "Use PlayHub Lite Extension in CloudStream!.",
-        "url": "https://playhublite.com",
+        "url": "https://github.com/ManzanitaDoradita/MDRepo-cloudstream/raw/refs/heads/main/app.cs3",
         "name": "PlayHub Lite"
     }
 ]
