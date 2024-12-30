@@ -1,12 +1,8 @@
 {
-    "name": "playhublite Repository",
-     "description": "un repositorio para el pluggin de PlayHub",
-     "plugins": [
-        {
-            "name": "PlayHubLite",
-            "version": "1.1",
-            "url":"https://raw.githubusercontent.com/ManzanitaDoradita/MDRepo-cloudstream/53b43409c8eb5ca4bd50dd597cf5a5199b05e525/PlayHubLite.cs",
-            "description": "un plugin para el repositorio de la pagina web de playhublite.com"
-        }
-     ]
+    "name": "PlayHub Lite",
+    "description": "Use PlayHub Lite Extension in CloudStream!",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/"
+    ]
 }
